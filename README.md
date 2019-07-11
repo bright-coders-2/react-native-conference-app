@@ -8,3 +8,4 @@ To complete this challenge you are required to develop a conference App. This Ap
 5. Users should be capable of addint events to their phone calendars
 6. Your code must implement unit tests with Jest and automated tests with Detox
 
+** Note: ** For the backend you can either make a full implementation using the programming language of your choice or create a mockup of the api using postman for example.
