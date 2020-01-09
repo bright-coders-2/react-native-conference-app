@@ -9,3 +9,8 @@ To complete this challenge you are required to develop a conference App. This Ap
 6. Your code must implement unit tests with Jest and automated tests with Detox
 
 **Note:** For the backend you can either make a full implementation using the programming language of your choice or create a mockup of the API using postman for example.
+
+## Resources
+- [React Native Documentation](https://facebook.github.io/react-native/docs/getting-started)
+- [The Complete React Native and Redux Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+- [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)
