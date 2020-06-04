@@ -1,8 +1,11 @@
+![BrightCoders Logo](img/logo-bc.png)
+
 # Bootcamp React Native: El Reto
 
 A continuación se describen las características de la App que deberás desarrollar. El tiempo límite para desarrollarla son 8 semanas y cada semana tendrás que presentar avances.
 
 ## Conferencias App
+![UI Example](img/logo-bc.png)
 
 Para completar este reto deberás desarrollar una aplicación que permita administrar la agenda de un evento de conferencias que cumnpla con los siguientes requerimientos:
 
