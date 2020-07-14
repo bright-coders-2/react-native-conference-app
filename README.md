@@ -6,7 +6,7 @@
 
 ## Pre-requisitos
 Antes de iniciar asegurate de configurar tu ambiente de trabajo.
-- [ ] Instala las herramientas necesarias para trabajar con React Native. [** :warning: Utiliza la opción React Native CLI Quickstart**](https://reactnative.dev/docs/environment-setup)
+- [ ] Instala las herramientas necesarias para trabajar con React Native. [**:warning: Utiliza la opción React Native CLI Quickstart**](https://reactnative.dev/docs/environment-setup)
 - [ ] Elige un editor para codificar como [Visual Studio Code](https://code.visualstudio.com/), o algúno similar.
 - [ ] Para mantener consistente el formato de tu código agrega la extensión [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ ] Agrega [Esling](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) identificar y resolver problemas en tu código
