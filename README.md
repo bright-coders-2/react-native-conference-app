@@ -5,16 +5,20 @@
 ![Cover](imgs/cover.jpg)
 
 ## Pre-requisitos
-Antes de iniciar asegurate de configurar tu ambiente de trabajo.
-- [ ] Instala las herramientas necesarias para trabajar con React Native. [**:warning: Utiliza la opción React Native CLI Quickstart**](https://reactnative.dev/docs/environment-setup)
-- [ ] Elige un editor para codificar como [Visual Studio Code](https://code.visualstudio.com/), o algúno similar.
-- [ ] Para mantener consistente el formato de tu código agrega la extensión [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [ ] Agrega [Esling](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) identificar y resolver problemas en tu código
-- [ ] Instala y configura [DeepScan](https://deepscan.io/) para analizar tu codigo y mejorar la calidad atendiendo los resultados del análisis
+-  React Native
+  - [ ] Instalar el entorno de desarrollo [**:warning: utiliza la opción React Native CLI Quickstart NO utilizar Expo**](https://reactnative.dev/docs/environment-setup)
+- Editor de texto
+  - [ ] Elegir un editor para codificar, puede ser [Visual Studio Code](https://code.visualstudio.com/), o algúno similar.
+  - [ ] Agregar la extensión [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para mantener un estilo consistente en tu código
+  - [ ] Instalar [ESLint](https://eslint.org/) para ayudarte a encontrar y arreglar problemas de tu código
+  - [ ] Agregar la extensión [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) integrar la funcionalidad de Eslint
+- Calidad de código. Para analizar la calidad de tu código necesitarás
+  - [ ] Instalar y configurar [DeepScan](https://deepscan.io/) para analizar tu codigo y mejorar la calidad atendiendo los resultados del análisis
+  - [ ] Instalar y configurar [CodeFactor](https://www.codefactor.io/) para analizar tu codigo y mejorar la calidad atendiendo los resultados del análisis
 
 ## Requerimientos funcionales
 
-Se requiere desarrollar una aplicación móvil que permita administra la agenda de un evento de conferencias que cumpla con los siguientes requerimientos:
+Se requiere desarrollar una aplicación móvil que permita administrar la agenda de un evento de conferencias que cumpla con los siguientes requerimientos:
 
 - [ ] Los usuarios deben ser capaces de ver una pantalla de Splash (presentación) al iniciar la App
 - [ ] Los usuarios deben ser capaces de registrarse
@@ -36,10 +40,39 @@ Se requiere desarrollar una aplicación móvil que permita administra la agenda 
   
 ## Requerimientos no-funcionales
 - Calidad
-  - [ ] Utilizar un estilo de código estandarizado (apoyarse 
-- [ ] El código de la App debe implementar pruebas unitarias con Jest y pruebas automatizadas con Detox
+  - [ ] Utilizar un estilo de código estandarizado (revisado por Eslint)
+  - [ ] Pruebas unitarias [Jest](https://jestjs.io/) y pruebas automatizadas con [Detox](https://github.com/wix/Detox)
+  - [ ] Puntuación **Good** obtenida en DeepScan
+  - [ ] Puntuación **A** obtenida en CodeFactor
+- Ejecución 
+  - [ ] Puede ejecutarse en Android o iOs
+- Código fuente
+  - [ ] Orientado a Objetos
+  - [ ] Métodos pequeños
+  - [ ] Aplicar los principios [SOLID](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
 
+## Tecnologías
+- [ ] Lenguaje de programación React Native (CLI **no utilizar Expo**)
+- [ ] Pruebas unitarias [Jest](https://jestjs.io/) 
+- [ ] Pruebas automatizadas con [Detox](https://github.com/wix/Detox)
+
+## Entregable
+- [ ] Código fuente en Github
+- [ ] Incluir en el repositorio la puntuación obtenida (badge) en DeepScan
+- [ ] Incluir en el repositorio la puntuación obtenida (badge) en CodeFactor
+- [ ] Documentar en [este archivo](setup/README.md) los pasos necesarios para ejecutar la App
+- [ ] El código de la App debe implementar pruebas unitarias con Jest y pruebas automatizadas con Detox
+- [ ] [Los commits deben se significativos](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4)
+- [ ] [Cada Pull Request implementa una sola funcionalidad](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
+
+## Evaluación / Revisión
+
+### Avances
+- [ ] 
 A continuación se describen las características de la App que deberás desarrollar. El tiempo límite para desarrollarla son 8 semanas y cada semana tendrás que presentar avances.
+
+## Tecnologí
+A continuación se describen las características de la App que deberás desarrollar. El tiempo límite para desarrollarla son 8 semanas y cada semana tendrás que presentar avance
 
 ## Conferencias App
 ![UI Example](imgs/conference-ui.png)
