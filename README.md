@@ -67,36 +67,37 @@ Se requiere desarrollar una aplicación móvil que permita administrar la agenda
 
 ## Evaluación / Revisión
 
-### Avances
-- [ ] 
-A continuación se describen las características de la App que deberás desarrollar. El tiempo límite para desarrollarla son 8 semanas y cada semana tendrás que presentar avances.
+- [ ] Trabajarás un ```ìssue``` a la vez
+- [ ] Publicarás de manera **diaria** tus avances en el repositorio remoto
+- [ ] Una vez que termines un ```ìssue``` harás un Pull Request 
+- [ ] Antes de hacer pull request deberás asegurarte que la puntuación obtenida en DeepScan sea **Good** y en CodeFactor **A**
+- [ ] Cada Pull Request deberá ser revisado (Code Review) por por lo menos 2 de tus compañeros BrightCoders
+- [ ] Una vez que tengas la revisión (Code Review) de tus mentores
+- [ ] Para hacer ```Merge```necesitas la aprobación de por lo menos 2 de tus compañeros Brightcoders y 1 mentor
 
-## Tecnologí
-A continuación se describen las características de la App que deberás desarrollar. El tiempo límite para desarrollarla son 8 semanas y cada semana tendrás que presentar avance
+En las revisiones se prestará atención a los siguientes aspectos:
+- [ ] Cumplimiento de los requerimientos funcionales
+- [ ] Cumplimiento de los requerimientos no funcionales
+- [ ] Orientación a objetos
+- [ ] Estructura de archivos
+- [ ] Pruebas
+- [ ] Código duplicado (no debe haber código duplicado)
+- [ ] Separación de intereses (separation of concerns)
+- [ ] Convenciones del lenguaje
+- [ ] Claridad de la solución
+- [ ] Abstracción
+- [ ] Uso de características propias de React Native
+- [ ] Uso de Git, commits y pull request bien definidos y atómicos
+- [ ] Puntuación obtenida en DeepScan
+- [ ] Puntuación obtenida en CodeFactor
 
-## Conferencias App
-![UI Example](imgs/conference-ui.png)
+## Organización
 
-Para completar este reto deberás desarrollar una aplicación que permita administrar la agenda de un evento de conferencias que cumnpla con los siguientes requerimientos:
+Los requerimientos funcionales están divdidos en ``ìssues`` los cuales están disponibe en el apartado **Issues** de este repositorio.
 
-- Los usuarios deben ser capaces de ver una pantalla de Splash (presentación) al iniciar la App
-- Los usuarios deben ser capaces de registrarse
-  - El registro debe guardarse en un backend o firebase
-- Los usuarios deben ser capces de logearse
-  - El registro debe guardarse en un backend o firebase
-- Los usuarios deben ser capaces de editar su perfil
-  - Nombre
-  - Correo electrónico
-  - Foto
-- Los usuarios deben ser capaces de agregar eventos (conferencias) a la agenda
-  - Nombre de la conferencia
-  - Nombre del conferencista
-  - Fecha
-  - Hora
-  - Los eventos deben ser almacenados en el backend o firebase
-- Los usuarios deben ser capaces de ver una lista de los eventos agendados
-  - Deben ser recuperados desde un backend o firebase
--   El código de la App debe implementar pruebas unitarias con Jest y pruebas automatizadas con Detox
+## Setup
+
+[Aquí se describen los pasos necesarios para ejecutar y probar este proyecto](setup/README.md)
 
 ## Recursos
 - [React Native Documentation](https://reactnative.dev/)
@@ -104,3 +105,5 @@ Para completar este reto deberás desarrollar una aplicación que permita admini
 - [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)
 - [Jest](https://jestjs.io/)
 - [Detox](https://github.com/wix/Detox)
+- [DeepScan](https://deepscan.io/)
+- [CodeFactor](https://www.codefactor.io/)
